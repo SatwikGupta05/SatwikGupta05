@@ -1,104 +1,138 @@
-<h1 align="center">Hi there, I'm Satwik Gupta 👋</h1>
-<h3 align="center">☁️ Cloud Security Enthusiast | 🔐 DevSecOps Learner | ⚙️ Builder & Breaker</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=B.Tech+2nd+Year+%7C+Cloud+Security+Engineer+in+Making;AWS+%7C+IAM+%7C+DevSecOps+%7C+Infrastructure+Security;Securing+the+Cloud%2C+One+Policy+at+a+Time+%F0%9F%94%92" alt="Typing SVG" />
-</p>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1F35,100:0D1117&height=120&section=header&text=Satwik%20Gupta&fontSize=42&fontColor=58A6FF&fontAlignY=65&desc=Cloud%20Security%20Engineer%20in%20Making&descAlignY=85&descColor=8B949E&animation=fadeIn" />
 
----
+<!-- Typing SVG -->
+<a href="https://github.com/satwikgupta05">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&lines=B.Tech+2nd+Year+%7C+Cloud+Security+Enthusiast;AWS+%7C+IAM+%7C+DevSecOps+%7C+Infra+Security;Securing+the+Cloud%2C+One+Policy+at+a+Time+%F0%9F%94%92;Builder+%26+Breaker+%7C+Open+Source+Contributor" alt="Typing SVG" />
+</a>
 
-## 💫 About Me
+<br/>
 
-🎓 **B.Tech 2nd Year** Student with a laser focus on **Cloud Security Engineering**
+<!-- Profile Views + Followers -->
+<img src="https://komarev.com/ghpvc/?username=satwikgupta05&style=flat-square&color=58A6FF&label=Profile+Views" />
+&nbsp;
+<a href="https://github.com/satwikgupta05?tab=followers">
+  <img src="https://img.shields.io/github/followers/satwikgupta05?label=Followers&style=flat-square&color=58A6FF&logo=github" />
+</a>
 
-🔐 Passionate about securing **AWS environments** through:
-- ☁️ **Cloud Security** — IAM hardening, S3 bucket policies, VPC security groups, GuardDuty
-- ⚙️ **DevSecOps** — Integrating security into CI/CD pipelines (GitHub Actions, Jenkins)
-- 🛡️ **Infrastructure Security** — Automating compliance checks, secrets management, least-privilege access
-- 🔍 **Threat Detection** — Monitoring, alerting, and incident response on AWS
-
-🌱 **Currently Learning:** AWS Security Specialty | Terraform for IaC Security | Container Security (Docker/K8s)
-
-🎯 **Goal:** Land a Cloud Security / DevSecOps role and contribute to open-source security tooling
-
-💡 **Fun Fact:** I believe security isn't a feature — it's a mindset baked into every line of code and every cloud resource 🔒
+</div>
 
 ---
 
-## 🌐 Socials
+## 👨‍💻 About Me
+
+```yaml
+name        : Satwik Gupta
+education   : B.Tech 2nd Year
+focus       : Cloud Security Engineering
+location    : India
+currently   : Learning AWS Security Specialty | Terraform IaC | Container Security
+goal        : Cloud Security / DevSecOps Engineer + Open Source Contributor
+fun_fact    : "Security isn't a feature — it's a mindset baked into every line of code 🔒"
+```
+
+---
+
+## 🔐 What I Work On
+
+| Domain | Focus Areas |
+|---|---|
+| ☁️ **Cloud Security** | IAM hardening, S3 bucket policies, VPC security groups, GuardDuty |
+| ⚙️ **DevSecOps** | Integrating security into CI/CD pipelines — GitHub Actions, Jenkins |
+| 🛡️ **Infrastructure Security** | Compliance automation, secrets management, least-privilege access |
+| 🔍 **Threat Detection** | Monitoring, alerting & incident response on AWS |
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/satwikgupta05"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/guptasatwik0001"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://x.com/satwik__gupta"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-  <a href="mailto:satwikgupta05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/satwikgupta05" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/satwik__gupta" target="_blank">
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/guptasatwik0001" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:satwikgupta05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Cloud & Security**
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **DevSecOps & CI/CD**
 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Databases**
 
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satwikgupta05&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=satwikgupta05&theme=radical&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwikgupta05&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=satwikgupta05&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&bg_color=0D1117" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=satwikgupta05&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwikgupta05&theme=github_dark&hide_border=true&layout=compact&title_color=58A6FF&text_color=8B949E&bg_color=0D1117" />
 </p>
 
 ---
 
-## 🔝 Top Contributed Repos
+## 🏆 Top Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=satwikgupta05&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+  <img width="80%" src="https://github-contributor-stats.vercel.app/api?username=satwikgupta05&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" />
 </p>
 
 ---
 
-### ✍️ Dev Quote of the Day
+## ✍️ Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=satwikgupta05&icon=0&color=6" />
-  </a>
-</p>
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1F35,100:0D1117&height=80&section=footer" />
+
+<sub>⭐ If you find my work useful, consider giving a star to my repos!</sub>
+
+</div>
