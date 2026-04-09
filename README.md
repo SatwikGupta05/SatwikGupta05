@@ -49,6 +49,9 @@ fun_fact    : "Security isn't a feature — it's a mindset baked into every line
 ## 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://satwikgupta.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
+  </a>
   <a href="https://linkedin.com/in/satwikgupta05" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
